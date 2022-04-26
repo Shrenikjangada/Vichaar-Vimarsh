@@ -1,0 +1,32 @@
+.single-item{
+	margin: 10px; 
+	border:.2em solid black; 
+	padding:10px; 
+	border-radius: 1em;
+}
+
+.read-button{
+	font-size: 1.2em;
+	border:.15em dotted green;
+	border-radius: .5em;
+	margin-top: 5em;
+	color: black;
+}
+
+.read-button:hover{
+	background-color: green;	
+	
+}
+.comment-button{
+	font-size: 1.2em;
+	border:.15em solid green;
+	border-radius: .5em;
+	margin-top: 5em;
+	
+}
+
+.comment-button:hover{
+	background-color: green;	
+	color: white;
+
+}

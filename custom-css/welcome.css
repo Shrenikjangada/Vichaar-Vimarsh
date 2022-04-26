@@ -1,0 +1,112 @@
+.profile-button div a:hover{
+	background-color: #8fc8d9;
+	font-size: 1.2em;
+}
+
+.main-txt{
+	text-align: center;
+	margin-top: 4em;	
+}
+
+.main-txt p{
+	font-size: 1.5em;
+}
+
+.tiles{
+	width: 5em;
+	height: 10em; 
+	border-radius: .5em;
+	border:.2em solid black;
+	margin: 1em;
+	padding: 0;
+
+}
+
+
+.tiles a{
+	color: black;
+	text-decoration: none;
+}
+
+.tiles a div{
+	opacity: .9;
+}
+
+
+
+
+.tile-1{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(/vichaar-vimarsh/images/business.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+
+}
+
+
+.tile-2{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/entertainment.png);
+background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tile-3{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/general.jpg);
+background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tile-4{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/health.jpg);
+background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tile-5{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/science.png);
+background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tile-6{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/sports.jpg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tile-7{
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/vichaar-vimarsh/images/technology.jpg);
+background-size: 100% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	font-size: 2em;
+}
+
+.tiles a div p{
+	padding-top: 1.3em;	
+	color: white;
+}
+
+
+.tiles a div p:hover{
+	font-size: 1.1em;
+	color: yellow;
+}
